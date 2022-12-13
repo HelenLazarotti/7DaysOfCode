@@ -1,0 +1,51 @@
+nav header{
+    display: flex;
+    height: 5em;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 3.5em;
+    margin-left: 3.5em;
+}
+#logotipoBtn{
+    display: flex;
+    align-items: center;
+}
+#logotipoBtn button{
+    background: none;
+    border: none;
+    margin-left: 0.3em;
+    font-size: 18px;
+    color: #3A404E;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+}
+li{
+    list-style: none;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+li a{
+    font-size: 16px;
+    text-decoration: none;
+    color: #3a404e;
+    
+}
+#login{
+    background: none;
+    border: none;
+    color: #3a404e;
+    margin-right: 0.93em;
+    font-size: 16px;
+}
+.cadastrar{
+    background-color: #8E2424;
+    color: #fff;
+    border-radius: 8px;
+    width: 112px;
+    height: 44px;
+    border: none;
+    font-size: 16px;
+}

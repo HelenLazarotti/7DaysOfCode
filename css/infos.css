@@ -1,0 +1,29 @@
+.infos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 3.5em;
+    margin-right: 3.5em;
+}
+.infos div{
+    margin-left: 1em;
+    margin-right: 1m;
+    
+    margin-bottom: 3.12em;
+}
+.numTitle{
+    font-size: 60px;
+    font-weight: 600;
+    color: #8E2424;
+}
+.numSubtitle{
+    font-size: 18px;
+    font-weight: 600;
+    color: #101828;
+}
+
+.numInfo{
+    font-size: 16px;
+    color: #667085;
+}

@@ -1,0 +1,63 @@
+.jobs{
+    margin-top: 96px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.jobs button {
+    border-radius: 16px;
+    font-size: 14px;
+    border: none;
+    background-color: rgba(142, 36, 36, 0.05);
+    color: #8E2424;
+    margin-top: 3.12em;
+}
+.jobs h1{
+    font-size: 36px;
+    font-weight: 600;
+    margin-top: 0.75em;
+}
+.jobs p{
+    font-size: 20px;
+    color: #667085;
+    font-weight: 400;
+    margin-top: 0.70em;
+}
+.jobs img{
+    margin-top: 3em;
+    width: auto;
+}
+.allVagas{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.vagaTitle{
+    margin-top: 64px;
+    margin-bottom: 32px;
+    font-size: 20px;
+}
+.vagas{
+    width: 700px;
+    margin-bottom: 24px;
+    padding: 24px 24px 28px;
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+}
+.vagas h3{
+    font-size: 18px;
+    font-weight: 500;
+    color: #101828;
+}
+.vagas div{
+    display: flex;
+    flex-direction: row;
+}
+.vagas div p{
+    color: #667085;
+    font-size: 16px;
+}
+.vagas div p:first-of-type {
+    margin-right: 10px;
+}
